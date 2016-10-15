@@ -17,10 +17,10 @@
   "require": {
     "php": ">=7.0",
     "fenom/fenom": "dev-master",
-    "fenom/fs-entity-loader": "dev-master*",
-    "fenom/storage": "dev-master*",
-    "fenom/entity-loader": "dev-master*",
-    "fenom/providers-collection": "dev-master*",
+    "fenom/fs-entity-loader": "dev-master",
+    "fenom/storage": "dev-master",
+    "fenom/entity-loader": "dev-master",
+    "fenom/providers-collection": "dev-master",
     "symfony/yaml": "dev-master"
   }
 }
